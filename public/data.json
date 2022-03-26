@@ -1,0 +1,72 @@
+[
+    {
+        "id": "623dda890cd94ce91ba33ea3",
+        "price": 900,
+        "img": "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGlwaG9uZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "name": "iPhone 11",
+        "company": "Apple"
+    },
+    {
+        "id": "623dda89c956b76e22a5abc9",
+        "price": 1100,
+        "img": "https://images.unsplash.com/photo-1616348436168-de43ad0db179?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGlwaG9uZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "name": "iPhone 12",
+        "company": "Apple"
+    },
+    {
+        "id": "623dda89fbc557b43e576e04",
+        "price": 1150,
+        "img": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjJ8fGlwaG9uZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "name": "iPhone 11 Pro Max",
+        "company": "Apple"
+    },
+    {
+        "id": "623dda89c8fca942b5663023",
+        "price": 950,
+        "img": "https://images.unsplash.com/photo-1611472173362-3f53dbd65d80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDR8fGlwaG9uZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "name": "iPhone 12 Mini",
+        "company": "Apple"
+    },
+    {
+        "id": "623dda89adf8d4e495edd20e",
+        "price": 900,
+        "img": "https://images.unsplash.com/photo-1541096017664-085dd9a616c3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTJ8fGlwaG9uZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "name": "iPhone XS",
+        "company": "Apple"
+    },
+    {
+        "id": "623dda89b66f9bfbdba31a90",
+        "price": 1200,
+        "img": "https://images.unsplash.com/photo-1572538194597-42aeefa26482?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODB8fGlwaG9uZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "name": "iPhone 12 Pro Max",
+        "company": "Apple"
+    },
+    {
+        "id": "623dda892731db4b4c543c0d",
+        "price": 850,
+        "img": "https://images.unsplash.com/photo-1584265907987-b7ab44c91e66?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODl8fGlwaG9uZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "name": "iPhone XR",
+        "company": "Apple"
+    },
+    {
+        "id": "623dda899dba56d0fbbfe09f",
+        "price": 1300,
+        "img": "https://images.unsplash.com/photo-1555375771-14b2a63968a9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTF8fGlwaG9uZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "name": "iPhone XS Max",
+        "company": "Apple"
+    },
+    {
+        "id": "623dda89f4f93a68879f44e2",
+        "price": 1150,
+        "img": "https://images.unsplash.com/photo-1615886490002-ae8172eea2de?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTAzfHxpcGhvbmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "name": "iPhone 13",
+        "company": "Apple"
+    },
+    {
+        "id": "623dda89886755c446ee29ac",
+        "price": 650,
+        "img": "https://images.unsplash.com/photo-1542561598-4c798e65151b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTYwfHxpcGhvbmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "name": "iPhone 7",
+        "company": "Apple"
+    }
+]
